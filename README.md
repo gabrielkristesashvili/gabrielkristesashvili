@@ -16,7 +16,7 @@
 <br><br>
 
 # 💻 ☀️ Interests:
-![ANGULAR](https://img.shields.io/badge/angular-red.svg?style=for-the-badge&logo=angular&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=lightgrey) ![NODE](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=green) __ and etc..
+![ANGULAR](https://img.shields.io/badge/angular-blueviolet.svg?style=for-the-badge&logo=angular&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=lightgrey) ![NODE](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=green) __ and etc..
 
 <br><br>
 
