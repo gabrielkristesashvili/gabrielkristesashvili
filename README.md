@@ -1,11 +1,14 @@
 # 💫 About Me:
 👨‍💻 Frontend Web Developer<br>⚡ Always Ready For Code<br>💼 Open To Job Opportunities<br>🌎 See My Portfolio Below<br>
 <br>
+<!--  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielkristesashvili)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/ca/u/0/#inbox/141b796e773c4f19) 
 
 <br><br>
+-->
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-red.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JQUERY](https://img.shields.io/badge/jquery-%23323330?style=for-the-badge&logo=jquery&logoColor=%2361DAFB) ![BOOTSTRAP](https://img.shields.io/badge/bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white) ![GIT](https://img.shields.io/badge/git-critical?style=for-the-badge&logo=git&logoColor=white)
