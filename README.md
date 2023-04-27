@@ -3,7 +3,7 @@
 <br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielkristesashvili)
-[![Gmail](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=Gmail&logoColor=white)](https://youtube.com/@rammcodes) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/ca/u/0/#inbox/141b796e773c4f19) 
 
 <br><br>
 # 💻 Tech Stack:
