@@ -36,11 +36,11 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielkristesashvili&repo=Portfolio&theme=dracula)](https://github.com/gabrielkristesashvili/Portfolio)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielkristesashvili&repo=tmdb-movie-api&theme=dracula)](https://github.com/gabrielkristesashvili/tmdb-movie-api)
 
-  <a href="https://github.com/gabrielkristesashvili?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<!--   <a href="https://github.com/gabrielkristesashvili?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
 </details>
 
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=gabrielkristesashvili&icon=4&prettr=0)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=gabrielkristesashvili&icon=4&prettr=0)](https://visitcount.itsvg.in)
 
 
